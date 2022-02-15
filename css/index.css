@@ -4511,6 +4511,10 @@ blockquote footer cite:before {
   --waline-theme-color: #49b1f5;
   --waline-active-color: #ff7242;
   --waline-avatar-size: 2.75rem;
+  --waline-bgcolor: #faebd7;
+  --waline-bgcolor: rgba(255,255,255,0.4);
+  --waline-border-color: rgba(255,255,255,0.4);
+  --waline-border: 0.5px solid var(--waline-border-color);
 }
 #waline-wrap .vuser {
   -webkit-transition: all 0.5s;
